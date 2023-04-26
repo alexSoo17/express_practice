@@ -1,0 +1,62 @@
+[
+  {
+    "name": "The snow adventurer",
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "duration": 10,
+    "ratingAverage": 4.7,
+    "ratingQuantity": 10,
+    "price": 497,
+    "priceDiscount": 0.9,
+    "summary": "You can enjoy the fantasy view in a dream white world",
+    "description": "Lorem ipsum dolor sit amet, delectus appetere suavitate ut cum, pro cu viderer convenire. Id ius nisl sale, stet principes vim te, pro ut elitr accumsan urbanitas. Eos agam vituperata no. Nam no summo dicant quidam, ex errem fastidii argumentum has. Ad has probo nonumy deleniti. Porro quodsi voluptaria te vix.",
+    "imageCover": "tour-1.jpg",
+    "images": ["tour1-1.jpg", "tour1-2.jpg", "tour1-3.jpg"],
+    "createdAt": "2019-04-22T16:50:42.818Z",
+    "startDates": [
+      "2021-04-25T09:00:00.000Z",
+      "2021-07-25T09:00:00.000Z",
+      "2021-10-25T09:00:00.000Z"
+    ]
+  },
+  {
+    "name": "The forest hiker",
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "duration": 8,
+    "ratingAverage": 4.6,
+    "ratingQuantity": 18,
+    "price": 397,
+    "priceDiscount": 0.9,
+    "summary": "You can enjoy the fantasy view in a great mystery forest",
+    "description": "Lorem ipsum dolor sit amet, delectus appetere suavitate ut cum, pro cu viderer convenire. Id ius nisl sale, stet principes vim te, pro ut elitr accumsan urbanitas. Eos agam vituperata no. Nam no summo dicant quidam, ex errem fastidii argumentum has. Ad has probo nonumy deleniti. Porro quodsi voluptaria te vix.",
+    "imageCover": "tour-2.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "createdAt": "2019-04-22T16:51:42.818Z",
+    "startDates": [
+      "2021-04-25T09:00:00.000Z",
+      "2021-07-25T09:00:00.000Z",
+      "2021-10-25T09:00:00.000Z"
+    ]
+  },
+  {
+    "name": "The amazon ",
+    "maxGroupSize": 5,
+    "difficulty": "hard",
+    "duration": 10,
+    "ratingAverage": 4.8,
+    "ratingQuantity": 12,
+    "price": 697,
+    "priceDiscount": 0.8,
+    "summary": "You can enjoy the fantasy view in a dream white world",
+    "description": "Lorem ipsum dolor sit amet, delectus appetere suavitate ut cum, pro cu viderer convenire. Id ius nisl sale, stet principes vim te, pro ut elitr accumsan urbanitas. Eos agam vituperata no. Nam no summo dicant quidam, ex errem fastidii argumentum has. Ad has probo nonumy deleniti. Porro quodsi voluptaria te vix.",
+    "imageCover": "tour-1.jpg",
+    "images": ["tour-1.jpg", "tour-2.jpg", "tour-3.jpg"],
+    "createdAt": "2019-04-23T16:50:42.818Z",
+    "startDates": [
+      "2021-04-25T09:00:00.000Z",
+      "2021-07-25T09:00:00.000Z",
+      "2021-10-25T09:00:00.000Z"
+    ]
+  }
+]
